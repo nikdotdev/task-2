@@ -30,7 +30,7 @@ app.get("/info", (req, res) => {
   res.json({
     name: "Express Deployment App",
     version: "1.0.0",
-    author: "Your Name",
+    author: "Nikhil Thakur",
   });
 });
 
