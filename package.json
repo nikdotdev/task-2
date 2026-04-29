@@ -1,0 +1,13 @@
+{
+  "name": "express-deployment-app",
+  "version": "1.0.0",
+  "description": "Basic Express Deployment App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.0.0"
+  }
+}
